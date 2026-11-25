@@ -46,4 +46,4 @@ I'm working toward the remaining certifications in my SANS program. Since web ap
 ## Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/leo-girandola1/
-- **Email:** leogirandola5@gmail.com
+- **Email:** leogirandola6@gmail.com
